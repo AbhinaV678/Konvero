@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Konvero</string>
+    <string name="welcome_to_konvero">Welcome to Konvero!</string>
+    <string name="enter_your_height_below">Enter your height below :</string>
+    <string name="submit">SUBMIT</string>
+    <string name="your_body_mass_index_is">Your Body Mass Index is :</string>
+    <string name="enter_your_weight_below">Enter your weight below :</string>
+    <string name="units_kg_m2">Units : kg / m2</string>
+    <string name="in_metres">In metres</string>
+    <string name="in_kilograms">In kilograms</string>
+    <string name="todo">TODO</string>
+    <string name="eg_34">eg: 34</string>
+    <string name="eg_35">eg:35</string>
+    <string name="enter_your_height_below_in_meters">enter your height below in meters :</string>
+    <string name="enter_your_weight_below_in_kilograms">Enter your weight below in kilograms :</string>
+    <string name="eg_2">eg : 2</string>
+    <string name="eg_56">eg : 56</string>
+    <string name="r1">TODO</string>
+</resources>
